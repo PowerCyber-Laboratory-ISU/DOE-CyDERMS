@@ -1,13 +1,24 @@
-# DOE-CyDERMS
+# CyDERMS
 
-This repository consolidates research artifacts, source code, documentation, reports, deliverables, publications, datasets, results, presentations, and meeting records for the DOE-CyDERMS project under the PowerCyber Lab at Iowa State University.
+**CyDERMS** stands for **Center for Cybersecurity & Resiliency of Distributed Energy Resources and Microgrids-integrated Distribution Systems**.
 
-Organization: `PowerCyber-Laboratory-ISU`
-Repository: `DOE-CyDERMS`
+This repository consolidates research artifacts, source code, documentation, reports, deliverables, publications, datasets, results, presentations, and meeting records for the CyDERMS project under the PowerCyber Lab at Iowa State University.
+
+## Project Information
+
+| Field | Details |
+| --- | --- |
+| Project Name | CyDERMS: Center for Cybersecurity & Resiliency of Distributed Energy Resources and Microgrids-integrated Distribution Systems |
+| Funded By | U.S. Department of Energy, Office of Cybersecurity, Energy Security, and Emergency Response (CESER) |
+| Grant Number | DE-CR0000040 |
+| Lead Institution | Iowa State University |
+| Principal Investigator | Dr. Manimaran Govindarasu, Department of Electrical and Computer Engineering, Iowa State University |
+| GitHub Organization | `PowerCyber-Laboratory-ISU` |
+| Repository | `DOE-CyDERMS` |
 
 ## Repository Purpose
 
-Use this repository as the central project record for DOE-CyDERMS. Active project material should stay in this organization-owned repository rather than individual personal accounts so that deliverables and outcomes remain accessible to the lab over time.
+Use this repository as the central project record for CyDERMS. Active project material should stay in this organization-owned repository rather than individual personal accounts so that deliverables and outcomes remain accessible to the lab over time.
 
 ## Folder Structure
 
