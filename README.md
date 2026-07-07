@@ -13,8 +13,17 @@ This repository consolidates research artifacts, source code, documentation, rep
 | Grant Number | DE-CR0000040 |
 | Lead Institution | Iowa State University |
 | Principal Investigator | Dr. Manimaran Govindarasu, Department of Electrical and Computer Engineering, Iowa State University |
-| GitHub Organization | `PowerCyber-Laboratory-ISU` |
-| Repository | `DOE-CyDERMS` |
+## Project Team
+
+CyDERMS is led by Iowa State University with project partners from:
+
+- Iowa State University
+- University of Minnesota
+- University of Illinois Urbana-Champaign
+- Michigan Technological University
+- Argonne National Laboratory
+- National Renewable Energy Laboratory
+- GE Vernova
 
 ## Repository Purpose
 
