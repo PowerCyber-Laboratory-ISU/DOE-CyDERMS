@@ -13,11 +13,11 @@ This repository consolidates research artifacts, source code, documentation, rep
 | Field | Details |
 | --- | --- |
 | Project Name | CyDERMS: Center for Cybersecurity & Resiliency of Distributed Energy Resources and Microgrids-integrated Distribution Systems |
-| Website | https://cyderms.iastate.edu/ |
 | Funded By | U.S. Department of Energy, Office of Cybersecurity, Energy Security, and Emergency Response (CESER) |
 | Grant Number | DE-CR0000040 |
 | Lead Institution | Iowa State University |
 | Principal Investigator | Dr. Manimaran Govindarasu, Department of Electrical and Computer Engineering, Iowa State University |
+| Website | https://cyderms.iastate.edu/ |
 
 ## Project Team
 
