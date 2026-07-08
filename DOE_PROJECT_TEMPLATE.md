@@ -5,31 +5,24 @@ Use this checklist when creating a new DOE project repository.
 ## Repository Name
 
 ```text
-doe-<project-short-name>
+DOE-<ProjectName>
 ```
 
 ## Required Files
 
 - `README.md`
-- `LICENSE`
 - `CONTRIBUTING.md`
 - `SECURITY.md`
 - `CODEOWNERS`
-- `.github/ISSUE_TEMPLATE/deliverable.md`
-- `.github/pull_request_template.md`
 
 ## Required Folders
 
 ```text
-docs/
-deliverables/
-reports/
+models/
+datasets/
+posters/
 presentations/
-publications/
-src/
-data/
-results/
-meetings/
+reports/
 ```
 
 ## README Sections
@@ -41,20 +34,17 @@ Every project README should include:
 - Principal investigator and project leads
 - Repository purpose
 - Folder structure
-- Deliverable list
-- Publication list
+- Project team
+- Website or project page
 - Data handling notes
 - Access and contribution rules
 
-## Deliverable Tracking
+## Artifact Tracking
 
-Each deliverable should include:
+Each major project artifact should include:
 
-- Deliverable ID
-- Title
-- Due date
+- Artifact title
 - Responsible person
+- Date or version
 - Status
-- Link to final artifact
-- Sponsor submission date, if applicable
-
+- Link to final artifact or storage location, if applicable

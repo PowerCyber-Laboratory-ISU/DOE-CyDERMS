@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="assets/cyderms-logo.png" alt="CyDERMS logo" width="260">
+  <img src="cyderms-logo.png" alt="CyDERMS logo" width="260">
 </p>
 
 # CyDERMS
 
 **CyDERMS** stands for **Center for Cybersecurity & Resiliency of Distributed Energy Resources and Microgrids-integrated Distribution Systems**.
 
-This repository consolidates research artifacts, source code, documentation, reports, deliverables, publications, datasets, results, presentations, and meeting records for the CyDERMS project under the PowerCyber Lab at Iowa State University.
+This repository consolidates models, datasets, posters, presentations, and reports for the CyDERMS project under the PowerCyber Lab at Iowa State University.
 
 ## Project Information
 
@@ -33,7 +33,7 @@ CyDERMS is led by Iowa State University with project partners from:
 
 ## Repository Purpose
 
-Use this repository as the central project record for CyDERMS. Active project material should stay in this organization-owned repository rather than individual personal accounts so that deliverables and outcomes remain accessible to the lab over time.
+Use this repository as the central project record for CyDERMS models, datasets, posters, presentations, and reports. Active project material should stay in this organization-owned repository rather than individual personal accounts so that project outcomes remain accessible to the lab over time.
 
 ## Folder Structure
 
@@ -42,29 +42,21 @@ README.md
 CONTRIBUTING.md
 SECURITY.md
 CODEOWNERS
-docs/
-deliverables/
-reports/
+cyderms-logo.png
+models/
+datasets/
+posters/
 presentations/
-publications/
-src/
-data/
-results/
-meetings/
-.github/
+reports/
 ```
 
 ## Recommended Use
 
-- `docs/` - project documentation, design notes, and technical references.
-- `deliverables/` - DOE deliverable drafts, review copies, and final submitted artifacts.
-- `reports/` - internal and sponsor-facing reports.
-- `presentations/` - slides, posters, and briefing material.
-- `publications/` - manuscripts, accepted papers, citation records, and publication support files.
-- `src/` - source code, scripts, tools, and reproducible workflows.
-- `data/` - approved datasets or pointers to approved storage locations.
-- `results/` - generated outputs, experiment summaries, figures, and analysis products.
-- `meetings/` - meeting notes, agendas, and action items.
+- `models/` - project models, simulation artifacts, model documentation, and reproducible modeling assets.
+- `datasets/` - approved datasets or pointers to approved storage locations.
+- `posters/` - conference posters and visual research summaries.
+- `presentations/` - slides and briefing material.
+- `reports/` - internal, sponsor-facing, and public reports.
 
 ## Project Governance
 
