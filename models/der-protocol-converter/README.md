@@ -79,3 +79,11 @@ After reviewing the updates, commit the changed submodule references in the main
 - The submodules are maintained as separate repositories under the `PowerCyber-Laboratory-ISU` GitHub organization.
 - Do not delete the forked repositories unless the submodules are replaced with regular copied files.
 - The individual components are designed for Linux-based environments.
+
+## Acknowledgment
+
+This work is funded in part by the US DOE Cybersecurity, Energy Security, and Emergency Response (CESER) Award Number DE-CR0000040.
+
+## License
+
+The DER Protocol Converter materials in this folder are licensed under the MIT License unless otherwise stated. See `LICENSE` and `NOTICE.md` in this folder. Individual submodules may have their own licenses and reuse terms.

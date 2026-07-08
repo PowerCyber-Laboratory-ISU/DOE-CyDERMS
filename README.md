@@ -59,14 +59,6 @@ reports/
 - `reports/` - internal, sponsor-facing, and public reports.
 
 
-## Acknowledgment
-
-This work is funded in part by the US DOE Cybersecurity, Energy Security, and Emergency Response (CESER) Award Number DE-CR0000040.
-
-## License
-
-This repository is licensed under the MIT License unless otherwise stated. See `LICENSE` and `NOTICE.md` for details.
-
 ## Project Governance
 
 Important changes should go through pull requests and review by a project lead or repository maintainer. Sensitive DOE or sponsor-facing content should remain private unless public release has been approved.
