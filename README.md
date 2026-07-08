@@ -28,7 +28,7 @@ CyDERMS is led by Iowa State University with project partners from:
 - University of Illinois Urbana-Champaign
 - Michigan Technological University
 - Argonne National Laboratory
-- National Renewable Energy Laboratory
+- National Laboratory of the Rockies
 - GE Vernova
 
 ## Repository Purpose
