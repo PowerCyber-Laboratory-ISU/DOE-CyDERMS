@@ -1,0 +1,9 @@
+[submodule "models/der-protocol-converter/der-gateway-client"]
+	path = models/der-protocol-converter/der-gateway-client
+	url = https://github.com/PowerCyber-Laboratory-ISU/der-gateway-client.git
+[submodule "models/der-protocol-converter/dnp3-rust-resources"]
+	path = models/der-protocol-converter/dnp3-rust-resources
+	url = https://github.com/PowerCyber-Laboratory-ISU/dnp3-rust-resources.git
+[submodule "models/der-protocol-converter/sunspec-modbus-server-v1"]
+	path = models/der-protocol-converter/sunspec-modbus-server-v1
+	url = https://github.com/PowerCyber-Laboratory-ISU/sunspec-modbus-server-v1.git
